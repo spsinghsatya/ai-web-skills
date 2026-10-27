@@ -28,3 +28,5 @@ npm run lint     # oxlint
 - `src/pages/` — Home (complete); About, Projects, Contact (placeholders)
 
 No secrets or environment variables are required.
+
+Animation/3D (phase 2): motion page transitions and scroll reveals, plus a lazy-loaded three.js (react-three-fiber) hero accent.
