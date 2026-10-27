@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "<FILESYSTEM_MCP_SERVER_PACKAGE>", "./workspace"]
+    }
+  }
+}
